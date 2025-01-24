@@ -1,1 +1,1 @@
-"The main code for implementing ID optimization is the primary code for generating CCD, calculating the ID criterion, and making comparisons. During execution, it needs to call 'functions_for_prediction_crit' to define the ID criterion and other functions."
+"The main code for implementing ID optimization” is the primary code for generating CCD, calculating the ID criterion, and making comparisons. During execution, it needs to call “functions_for_prediction_crit“ to define the ID criterion and other functions.
